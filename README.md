@@ -9,15 +9,15 @@
 
 • 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures.
 
-**Features / Highlights**
+📌 **Features / Highlights**
 
-**Key Performance Indicators (KPIs)**  
+🎯 **Key Performance Indicators (KPIs)**  
 •**Total Revenue**: ₹346K  
 •**Total Orders**: 500  
 •**Total Customers**: 239  
 •**Average Order Value**: ₹693  
 
-**Key Visual**
+👁️ **Key Visual**
 
 •**Line Chart**: Visualizes the revenue fluctuations across months.
 
@@ -29,7 +29,7 @@
 
 •**Map**: Geographic visualization of order concentration across India.
 
-**Insights and Conclusions**
+💡 **Insights and Conclusions**
 
 • Zomato generated a total revenue of ₹346K from 500 orders with an average order value of ₹693, indicating steady customer     spending behavior.
 

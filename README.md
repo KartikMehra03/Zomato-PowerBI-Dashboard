@@ -11,11 +11,11 @@
 
 **Features / Highlights**
 
-**Key Performance Indicators (KPIs)**
-•**Total Revenue**: ₹346K
-•**Total Orders**: 500
-•**Total Customers**: 239
-•**Average Order Value**: ₹693
+**Key Performance Indicators (KPIs)**  
+•**Total Revenue**: ₹346K  
+•**Total Orders**: 500  
+•**Total Customers**: 239  
+•**Average Order Value**: ₹693  
 
 **Key Visual**
 

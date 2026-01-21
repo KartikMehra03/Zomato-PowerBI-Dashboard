@@ -23,7 +23,7 @@
 
 •**Bar Chart**: Visualizes the cities based on total revenue.
 
-•**Bar Chart**: Visualizes the the highest revenue-generating restaurants.
+•**Bar Chart**: Visualizes the highest revenue-generating restaurants.
 
 •**Donut Chart**: Visualizes the distribution across Cash, Card, UPI and Wallet.
 

@@ -1,0 +1,50 @@
+Restaurant ID,Restaurant Name,City,Cuisine Type,Rating,Is Veg
+3001,Restaurant 1,Bengaluru,Chinese,4.4,Yes
+3002,Restaurant 2,Chennai,South Indian,4.6,No
+3003,Restaurant 3,Bengaluru,Chinese,3.6,No
+3004,Restaurant 4,Bengaluru,Chinese,4.7,No
+3005,Restaurant 5,Mumbai,North Indian,4.8,No
+3006,Restaurant 6,Chennai,Fast Food,3.6,Yes
+3007,Restaurant 7,Hyderabad,Italian,5.0,Yes
+3008,Restaurant 8,Kolkata,South Indian,3.3,Yes
+3009,Restaurant 9,Mumbai,Italian,3.4,No
+3010,Restaurant 10,Bengaluru,Italian,3.4,No
+3011,Restaurant 11,Kolkata,Fast Food,4.8,Yes
+3012,Restaurant 12,Pune,Italian,4.3,Yes
+3013,Restaurant 13,Kolkata,Italian,3.3,Yes
+3014,Restaurant 14,Bengaluru,Chinese,3.9,No
+3015,Restaurant 15,Bengaluru,Fast Food,4.2,No
+3016,Restaurant 16,Chennai,North Indian,3.2,Yes
+3017,Restaurant 17,Chennai,South Indian,4.8,Yes
+3018,Restaurant 18,Mumbai,Italian,4.6,Yes
+3019,Restaurant 19,Hyderabad,South Indian,4.0,No
+3020,Restaurant 20,Mumbai,North Indian,4.9,No
+3021,Restaurant 21,Delhi,South Indian,3.8,No
+3022,Restaurant 22,Bengaluru,North Indian,5.0,Yes
+3023,Restaurant 23,Kolkata,Chinese,4.3,Yes
+3024,Restaurant 24,Pune,Italian,4.3,No
+3025,Restaurant 25,Bengaluru,North Indian,3.3,Yes
+3026,Restaurant 26,Bengaluru,South Indian,4.8,No
+3027,Restaurant 27,Mumbai,Italian,3.9,Yes
+3028,Restaurant 28,Pune,Chinese,3.3,Yes
+3029,Restaurant 29,Pune,Italian,3.0,Yes
+3030,Restaurant 30,Pune,North Indian,4.1,Yes
+3031,Restaurant 31,Mumbai,Chinese,4.1,No
+3032,Restaurant 32,Bengaluru,South Indian,4.4,Yes
+3033,Restaurant 33,Mumbai,Chinese,4.8,No
+3034,Restaurant 34,Chennai,Chinese,3.2,No
+3035,Restaurant 35,Chennai,Fast Food,4.5,No
+3036,Restaurant 36,Mumbai,Chinese,3.4,Yes
+3037,Restaurant 37,Pune,Chinese,4.7,No
+3038,Restaurant 38,Bengaluru,Italian,4.6,No
+3039,Restaurant 39,Mumbai,South Indian,4.1,No
+3040,Restaurant 40,Mumbai,Italian,4.4,Yes
+3041,Restaurant 41,Mumbai,Italian,3.6,Yes
+3042,Restaurant 42,Delhi,North Indian,3.9,No
+3043,Restaurant 43,Chennai,Italian,4.6,Yes
+3044,Restaurant 44,Kolkata,Fast Food,3.9,No
+3045,Restaurant 45,Pune,Fast Food,3.7,No
+3046,Restaurant 46,Hyderabad,North Indian,4.0,Yes
+3047,Restaurant 47,Kolkata,South Indian,4.7,No
+3048,Restaurant 48,Pune,South Indian,3.7,Yes
+3049,Restaurant 49,Hyderabad,Italian,3.3,Yes
